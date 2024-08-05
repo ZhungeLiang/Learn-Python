@@ -1,4 +1,4 @@
-# What is **Python** 🐍?
+# Lesson 1 : What is **Python** 🐍?
 
 > [**EN**] **Python** is a high-level, general-purpose programming language renowned for its readability and simplicity. <br> **Python** can be use in many field such as Web Development, Data science, Data Analysis, A.I(Artificial intelligence).
 
