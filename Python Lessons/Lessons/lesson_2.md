@@ -25,7 +25,7 @@
 * **str** for text
 * **boolean** for True or False statement
 
-> ## Example : **int** normal number, can't be decimal and will convert into the actual number
+> ## Example : **int** | normal number, can't be decimal and will convert into the actual number
 
 ```python
     print(420)
@@ -34,7 +34,7 @@
     print(750)
 ```
 
-> ## Exampel : **float** decimal number "12.34". Will turn normal number 80 -> 80.0 or 80.00
+> ## Exampel : **float** | decimal number "12.34" | Will turn normal number 80 -> 80.0 or 80.00
 
 ```python
     print(69.97)
@@ -43,7 +43,7 @@
     print(50) # output: 50.00
 ```
 
-> ## Example : **str** anything inside " " will count as letter and can't be calculated
+> ## Example : **str** | anything inside " " will count as letter and can't be calculated
 
 ```python
     print("Hello there!")
@@ -51,7 +51,7 @@
     print("Will you marry me?")
     print("My bill this month: 780.9$")
 ```
-> ## Example : **boolean** con 2 answer, either True or False
+> ## Example : **boolean** | can 2 answer, either True or False
 
 ```python 
     print("I am Iron man")
