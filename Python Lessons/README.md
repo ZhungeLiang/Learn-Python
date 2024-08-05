@@ -1,4 +1,4 @@
-# ![Python logo GIFs](docs/gifs/Python-logo-gifs.gif) 
+# ![Python logo GIFs](docs/gifs/Python-logo-gifs.gif)
 # **Introduction**
 
 > We'll be using **Visual Studio Code** for this course.
