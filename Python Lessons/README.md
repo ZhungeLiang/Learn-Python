@@ -7,9 +7,16 @@
 ## First thing first, let's set up **IDE** and **Python**
 > 1 **IDE :** Download & setup [Visual studio Code](https://code.visualstudio.com/Download) Choose **Window**, **Mac** or **Linux**
 
-> **Video**
+**Video**
 
 > 2 **Python :** Download & setup [python](https://www.python.org/downloads/) Choose the latest version or 1 before
 
-> **Video**
+**Video**
 
+# Lessons
+
+> Click specific **link** to view the provided lessons along with **video** & **document** for demonstration
+
+> **Lesson 1 :** [What is Python?](Lessons/lesson_1.py)
+
+> **Lesson 2 :** [Output data](Lessons/lesson_2.py)
