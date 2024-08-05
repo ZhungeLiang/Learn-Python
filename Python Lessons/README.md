@@ -1,6 +1,4 @@
-![python-logo.png](./docs/image_readme/python-logo.png)
-
-# Introduction
+# ![Python logo GIFs](docs/gifs/Python-logo-gifs.gif) **Introduction**
 
 > We'll be using **Visual Studio Code** for this course.
 
