@@ -16,17 +16,17 @@
 
 [**EN**]
 
-> * **Web Development :** Build dynamic websites and web applications using frameworks like **Django** and **Flask**
+> **Web Development :** Build dynamic websites and web applications using frameworks like **Django** and **Flask**
 
-> * **Data Science :** Analyze, visualize, and extract insights from large datasets with libraries like **NumPy**, **Pandas**, and **Matplotlib**.
+> **Data Science :** Analyze, visualize, and extract insights from large datasets with libraries like **NumPy**, **Pandas**, and **Matplotlib**.
 
-> * **Machine learning (A.I) :** Develop intelligent systems and models using **scikit-learn**, **TensorFlow**, and **PyTorch**.
+> **Machine learning (A.I) :** Develop intelligent systems and models using **scikit-learn**, **TensorFlow**, and **PyTorch**.
 
-> * **Automation :** Automate repetitive tasks, such as file management, data processing, and web scraping.
+> **Automation :** Automate repetitive tasks, such as file management, data processing, and web scraping.
 
-> * **Software development :** Create **desktop applications**, **games**, and other software
+> **Software development :** Create **desktop applications**, **games**, and other software
 
-> * **Scripting :** Write scripts for system administration, testing, and other purposes.
+> **Scripting :** Write scripts for system administration, testing, and other purposes.
 
 # Python preview
 
