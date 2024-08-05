@@ -34,7 +34,7 @@
     print(750)
 ```
 
-> ## Exampel : **float** : decimal number "12.34" | Will turn normal number 80 -> 80.0 or 80.00
+> ## Exampel : **float** : decimal number "12.34" <br> Will turn normal number 80 -> 80.0 or 80.00
 
 ```python
     print(69.97)
