@@ -16,9 +16,9 @@
 
 Click specific **link** to view the provided lessons along with **video** & **document** for demonstration.
 
-> Lesson 1 : [**What is Python?**](Lessons/lesson_1.py)
+> Lesson 1 : [**What is Python?**](Lessons/lesson_1.md)
 
-> Lesson 2 : [**Output data**](Lessons/lesson_2.py)
+> Lesson 2 : [**Output data**](Lessons/lesson_2.md)
 
 # Resourse & credit
 

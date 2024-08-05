@@ -32,4 +32,14 @@
 
 > [**EN**] : Simple output using **Python** <br> [**KH**] : ការបង្ហាញទិន្នផលសាមញ្ញដោយប្រើ **Python**
 
-![Info display](docs/image_readme/git-output.png)
+```python
+print("============[INFO]============")
+print("Name           : Zhunge liang")
+print("ID             : 42069")
+print("Birth of date  : 01/01/2000")
+print("Nationality    : China")
+print("Skill          : Software Dev")
+print("============[####]============")
+```
+
+![Output :](docs/image_readme/git-lesson1.png)
