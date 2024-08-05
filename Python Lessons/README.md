@@ -15,7 +15,7 @@
 
 # Lessons
 
-> Click specific **link** to view the provided lessons along with **video** & **document** for demonstration
+Click specific **link** to view the provided lessons along with **video** & **document** for demonstration
 
 > **Lesson 1 :** [What is Python?](Lessons/lesson_1.py)
 
