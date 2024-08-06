@@ -17,17 +17,17 @@
 
 Click specific **link** to view the provided lessons along with **video** & **document** for demonstration.
 
-> Lesson 1 : [**What is Python?**](Lessons/lesson_1.md) | History of Python creator and how to get start on using **Python**.
+> [Lesson 1](Lessons/lesson_1.md) : [**What is Python?**](Lessons/lesson_1.md) | History of Python creator and how to get start on using **Python**.
 
-> Lesson 2 : [**Output data**](Lessons/lesson_2.md) | Learn how to display text and a brief understand on different **data type**.
+> [Lesson 2](Lessons/lesson_2.md) : [**Output data**](Lessons/lesson_2.md) | Learn how to display text and a brief understand on different **data type**.
 
-> Lesson 3 : [**Variable**](Lessons/lesson_3.md) | What is **variable**? Understand **data type** and how to asign them.
+> [Lesson 3](Lessons/lesson_3.md) : [**Variable**](Lessons/lesson_3.md) | What is **variable**? Understand **data type** and how to asign them.
 
-> Lesson 4 : [**String methods**](Lessons/lesson_4.md) | Learn useful **string methods** | This will be useful later.
+> [Lesson 4](Lessons/lesson_4.md) : [**String methods**](Lessons/lesson_4.md) | Learn useful **string methods** | This will be useful later.
 
-> lesson 5: [**Type casting**]() | Convert **data type** into another **data type** while value remain unchanged.
+> [Lesson 5]() : [**Type casting**]() | Convert **data type** into another **data type** while value remain unchanged.
 
-> Lesson 6: [**Input data**]() | learn how to insert/input **data/value**
+> [Lesson 6]() : [**Input data**]() | learn how to insert/input **data/value**
 
 # Resourse & credit
 
