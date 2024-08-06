@@ -2,7 +2,7 @@
 
 # **Introduction**
 
-> We'll be using **Visual Studio Code** for this course.
+> We'll walk you through step by step on how to set up **Visual Studio Code** & download **Python** into OS and provide Python lessons from rookie to pro
 
 ## First thing first, let's set up **IDE** and **Python**
 > 1 **IDE :** Download & setup [Visual studio Code](https://code.visualstudio.com/Download) Choose **Window**, **Mac** or **Linux**.
@@ -17,11 +17,17 @@
 
 Click specific **link** to view the provided lessons along with **video** & **document** for demonstration.
 
-> Lesson 1 : [**What is Python?**](Lessons/lesson_1.md)
+> Lesson 1 : [**What is Python?**](Lessons/lesson_1.md) | History of Python creator and how to get start on using **Python**.
 
-> Lesson 2 : [**Output data**](Lessons/lesson_2.md)
+> Lesson 2 : [**Output data**](Lessons/lesson_2.md) | Learn how to display text and a brief understand on different **data type**.
 
-> Lesson 3 : [**Variable**](Lessons/lesson_3.md)
+> Lesson 3 : [**Variable**](Lessons/lesson_3.md) | What is **variable**? Understand **data type** and how to asign them.
+
+> Lesson 4 : [**String methods**](Lessons/lesson_4.md) | Learn useful **string methods** | This will be useful later.
+
+> lesson 5: [**Type casting**]() | Convert **data type** into another **data type** while value remain unchanged.
+
+> Lesson 6: [**Input data**]() | learn how to insert/input **data/value**
 
 # Resourse & credit
 
