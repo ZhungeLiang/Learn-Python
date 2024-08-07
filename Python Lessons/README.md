@@ -29,6 +29,19 @@ Click specific **link** to view the provided lessons along with **video** & **do
 
 > [Lesson 6]() : [**Input data**]() | learn how to insert/input **data/value**
 
+> [Lesson 7]() : [**Arithmetic operators**]() | Baisc calculation using ( + , - , * , / , % , // , ** )
+
+> [Lesson 8]() : [**Assignment operators**]() | Assign values to variables using ( += , -= , *= , /= , %= , **= , //= )
+
+> [Lesson 9]() : [**Comparison operators**]() | Compare values and return a Boolean value (True or False)
+
+> [Lesson 10]() : [**Logical Operators**]() | Combine conditional statements and return a Boolean value (True or False)
+
+> [Lesson 11]() : [**if statment**]() | A block of code that will execute if it's condition is True
+
+> [Lesson 12]() : [**Loop**]() | Execute a block of code repeatedly until a certain condition is met
+
+
 # Resourse & credit
 
 > ## Code & lesson from **Bro Code** | [**Python Full Course for free**](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=4053s) | Check out [Bro Code](https://www.youtube.com/@BroCodez) youtube channel if you wish to explore other programming languages.
