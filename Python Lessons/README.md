@@ -25,25 +25,27 @@ Click specific **link** to view the provided lessons along with **video** & **do
 
 > [Lesson 4](Lessons/lesson_4.md) : [**String methods**](Lessons/lesson_4.md) | Learn useful **string methods** | This will be useful later.
 
-> [Lesson 5]() : [**Type casting**]() | Convert **data type** into another **data type** while value remain unchanged.
+> [Lesson 5](Lessons/lesson_5.md) : [**Type casting**](Lessons/lesson_5.md) | Convert **data type** into another **data type** while value remain unchanged.
 
-> [Lesson 6]() : [**Input data**]() | learn how to insert/input **data/value**
+> [Lesson 6](Lessons/lesson_6.md) : [**Input data**](Lessons/lesson_6.md) | learn how to insert/input **data/value**
 
-> [Lesson 7]() : [**Arithmetic operators**]() | Baisc calculation using ( + , - , * , / , % , // , ** )
+> [lesson_7](Lessons/lesson_7.md) : [**Math functions**](Lessons/lesson_7.md) | Learn some useful math functions
 
-> [Lesson 8]() : [**Assignment operators**]() | Assign values to variables using ( += , -= , *= , /= , %= , **= , //= )
+> [Lesson 8]() : [**Arithmetic operators**]() | Baisc calculation using ( + , - , * , / , % , // , ** )
 
-> [Lesson 9]() : [**Comparison operators**]() | Compare values and return a Boolean value (True or False)
+> [Lesson 9]() : [**Assignment operators**]() | Assign values to variables using ( += , -= , *= , /= , %= , **= , //= )
 
-> [Lesson 10]() : [**Logical Operators**]() | Combine conditional statements and return a Boolean value (True or False)
+> [Lesson 10]() : [**Comparison operators**]() | Compare values and return a Boolean value (True or False)
 
-> [Lesson 11]() : [**if statment**]() | A block of code that will execute if it's condition is True
+> [Lesson 11]() : [**Logical Operators**]() | Combine conditional statements and return a Boolean value (True or False)
 
-> [Lesson 12]() : [**Loop**]() | Execute a block of code repeatedly until a certain condition is met
+> [Lesson 12]() : [**if statment**]() | A block of code that will execute if it's condition is True
+
+> [Lesson 13]() : [**Loop**]() | Execute a block of code repeatedly until a certain condition is met
 
 
 # Resourse & credit
 
-> ## Code & lesson from **Bro Code** | [**Python Full Course for free**](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=4053s) | Check out [Bro Code](https://www.youtube.com/@BroCodez) youtube channel if you wish to explore other programming languages.
+> Code & lesson from **Bro Code** | [**Python Full Course for free**](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=4053s) | Check out [Bro Code](https://www.youtube.com/@BroCodez) youtube channel if you wish to explore other programming languages.
 
-> ## Code & Lesson from "Python & Flask" course at **Etec center** | Check out Facebook page [Etec center](https://www.facebook.com/etectrainingcenter) or [គ្រូអាយធីចិត្តល្អ ](https://www.facebook.com/kroitfan) for more info about other course such as **Basic C/C++/OOP**, **Web Development**, **design**, **Network**, ... and Guidelines: Road Map.
+> Code & Lesson from "Python & Flask" course at **Etec center** | Check out Facebook page [Etec center](https://www.facebook.com/etectrainingcenter) or [គ្រូអាយធីចិត្តល្អ ](https://www.facebook.com/kroitfan) for more info about other course such as **Basic C/C++/OOP**, **Web Development**, **design**, **Network**, ... and Guidelines: Road Map.
