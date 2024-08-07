@@ -1,2 +1,6 @@
 # Lesson 4 : String methods
-> # There are many different kind of string
+> ## **String methods** has many different way to manipulate **string**
+
+## Let's walk through each one
+
+> 

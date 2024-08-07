@@ -23,18 +23,22 @@
 * **int** for number
 * **float** for decimal number
 * **str** for text
-* **boolean** for True or False statement
+* **bool** for True or False statement <br>
 
-> ## Example : **int** : normal number. <br> Can't be decimal and will convert into the actual number.
+> ## **int** : normal number. <br> Can't be decimal and will convert into the actual number.
+
+* Example : Print some number
 
 ```python
-    print(420)
+    print(-420)
     print(69.9)  # output: 69
     print(11.11) # output: 11
     print(750)
 ```
 
-> ## Exampel : **float** : decimal number "12.34" <br> Will turn normal number 80 -> 80.0 or 80.00
+> ## **float** : decimal number "12.34" <br> Will turn normal number 80 -> 80.0 or 80.00
+
+* Example : Print some decimal number
 
 ```python
     print(69.97)
@@ -43,7 +47,9 @@
     print(50) # output: 50.00
 ```
 
-> ## Example : **str** : anything inside " " will count as letter and can't be calculated.
+> ## **str** : anything inside " " will count as letter and can't be calculated.
+
+* Example : Print some text
 
 ```python
     print("Hello there!")
@@ -51,7 +57,9 @@
     print("Will you marry me?")
     print("My bill this month: 780.9$")
 ```
-> ## Example : **boolean** : can 2 answer, either True or False
+> ## **bool** : can 2 answer, either True or False
+
+* Example : Print **True** or **False**
 
 ```python 
     print("I am Iron man")
@@ -60,3 +68,23 @@
     print(True)
 ```
 
+> ## Use **.format()** or **f** to auto format the variable when output and to set decimal number
+
+* Example : Print text along with variable value
+
+```python
+    x = 20
+
+    print(f"I am {x} years old")
+    # or
+    print("I am {:} years old".format(x))
+```
+
+* Example : Print text with decimal number
+```python
+    y = 3.14159
+    print("PI = {:.2f}".format(y)) # .2f = take only 2 decimal
+
+    z = 420.6912415
+    print("Z = {:.5f}".format(z)) # .5f = will take 5 decimal
+```
