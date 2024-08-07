@@ -46,4 +46,4 @@ Click specific **link** to view the provided lessons along with **video** & **do
 
 > ## Code & lesson from **Bro Code** | [**Python Full Course for free**](https://www.youtube.com/watch?v=XKHEtdqhLK8&t=4053s) | Check out [Bro Code](https://www.youtube.com/@BroCodez) youtube channel if you wish to explore other programming languages.
 
-> ## Code & Lesson from Python & Flask course at **Etec center** | Check out Facebook page [Etec center](https://www.facebook.com/etectrainingcenter) or [គ្រូអាយធីចិត្តល្អ ](https://www.facebook.com/kroitfan) for more info about other course such as **Basic C/C++/OOP**, **Web Development**, **design**, **Network**, ... and Guidelines: Road Map.
+> ## Code & Lesson from "Python & Flask" course at **Etec center** | Check out Facebook page [Etec center](https://www.facebook.com/etectrainingcenter) or [គ្រូអាយធីចិត្តល្អ ](https://www.facebook.com/kroitfan) for more info about other course such as **Basic C/C++/OOP**, **Web Development**, **design**, **Network**, ... and Guidelines: Road Map.
