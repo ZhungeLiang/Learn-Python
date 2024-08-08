@@ -2,16 +2,24 @@
 
 # **Introduction**
 > ## We will use IDE **Visual Studio Code** for this course <br>
-> We will walk you through step by step on how to set up **Visual Studio Code** & download **Python** into OS and provide Python lessons from rookie 😟 to pro 😎
+> We will walk you through step by step on how to set up **Visual Studio Code** & download **Python** into OS and provide Python lessons from rookie 😟 to pro 😎 <br><br>
+> Don't foreget to look out for **tips & tricks** as you learn
+
+<br>
 
 ## First thing first, let's set up **IDE** and **Python**
 > 1 **IDE :** Download & setup [Visual studio Code](https://code.visualstudio.com/Download) Choose **Window**, **Mac** or **Linux**.
 
 **Video**
 
+<br>
+
+
 > 2 **Python :** Download & setup [python](https://www.python.org/downloads/) Choose the latest version or 1 before
 
 **Video**
+
+<br>
 
 # Lessons
 
@@ -43,6 +51,7 @@ Click specific **link** to view the provided lessons along with **video** & **do
 
 > [Lesson 13]() : [**Loop 🔁**]() | Execute a block of code repeatedly until a certain condition is met
 
+<br>
 
 # Resourse & credit
 
