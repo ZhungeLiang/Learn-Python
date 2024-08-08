@@ -5,7 +5,7 @@
 
 <br><br>
 
-> # 1. round() = Will round up decimal numbers to the nearest integer.
+> ## 1. round() = Will round up decimal numbers to the nearest integer.
 > ## 0.49 or lower will round up to the lowerest integer.
 > ## 0.50 or higher will round up to the highest integer.
 
@@ -17,7 +17,7 @@ print(round(PI))
 #output: 3
 ```
 
-> # 2. **ceil()** = Will round up to the highest integer even if the decimal is lower than 0.5
+> ## 2. **ceil()** = Will round up to the highest integer even if the decimal is lower than 0.5
 
 * ## Example: PI = 3.14 will round up to 4 because 4 come after 3
 
@@ -27,7 +27,7 @@ print(ceil(PI))
 #output: 4
 ```
 
-> # 3. **floor()** = Will round up to the lowest integer even if the decimal is grater than 0.5
+> ## 3. **floor()** = Will round up to the lowest integer even if the decimal is grater than 0.5
 
 * ## Example: PI = 3.14 will round up to 3 because 3 is the lowest integer
 
