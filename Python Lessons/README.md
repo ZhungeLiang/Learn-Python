@@ -41,7 +41,7 @@ Click specific **link** to view the provided lessons along with **examples** and
 
 > [Lesson 8](Lessons/lesson_8.md) : [**Arithmetic operators**](Lessons/lesson_8.md) | Baisc calculation using ( + , - , * , / , % , // , ** )
 
-> [Lesson 9]() : [**Assignment operators**]() | Assign values to variables using ( += , -= , *= , /= , %= , **= , //= )
+> [Lesson 9](Lessons/lesson_9.md) : [**Assignment operators**](Lessons/lesson_9.md) | Assign values to variables using ( += , -= , *= , /= , %= , **= , //= )
 
 > [Lesson 10]() : [**Comparison operators**]() | Compare values and return a Boolean value (True or False)
 
@@ -50,6 +50,10 @@ Click specific **link** to view the provided lessons along with **examples** and
 > [Lesson 12]() : [**if statment 👉**]() | A block of code that will execute if it's condition is True
 
 > [Lesson 13]() : [**Loop 🔁**]() | Execute a block of code repeatedly until a certain condition is met
+
+> [Lesson 14]() : [**Function**]() | A block of code pre-built that can be use anytime, anywhere.
+
+> [Lesson 15]() : [**Coming soon**]() |
 
 <br>
 
