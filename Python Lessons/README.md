@@ -39,7 +39,7 @@ Click specific **link** to view the provided lessons along with **examples** and
 
 > [lesson_7](Lessons/lesson_7.md) : [**Math functions 🧮**](Lessons/lesson_7.md) | Learn some useful math functions
 
-> [Lesson 8]() : [**Arithmetic operators**]() | Baisc calculation using ( + , - , * , / , % , // , ** )
+> [Lesson 8](Lessons/lesson_8.md) : [**Arithmetic operators**](Lessons/lesson_8.md) | Baisc calculation using ( + , - , * , / , % , // , ** )
 
 > [Lesson 9]() : [**Assignment operators**]() | Assign values to variables using ( += , -= , *= , /= , %= , **= , //= )
 
