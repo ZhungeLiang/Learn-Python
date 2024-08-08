@@ -80,7 +80,7 @@ print(pow(Pi, 5)) # PI * PI 5 times
 
 <br>
 
-* ### **Pro tip:** Take 2 decimal of the power of number | Require "import math" function. <Br> We will discuss this later so that's okey if you don't understand.
+## **Pro tip:** Take 2 decimal of the power of number | Require "import math" function. <Br> We will discuss this later so that's okey if you don't understand.
 
 <br>
 

@@ -1,12 +1,14 @@
 # Lesson 4 : String methods
 
 > ## **String methods** has many different way to manipulate **string**
-
 > ## Recommended download extension "**python snippets**" to preview all available features and functions
+> ## Let's walk through each one
 
-## Let's walk through each one
+<br><br>
 
-> 1. Example : **len()** | Count how many index of the string
+> ## 1. **len()** | Count how many index of the string
+
+<br>
 
 ```python
 name = "Tony Stark" 
@@ -14,7 +16,11 @@ print(len(name))
 # output: 10
 ```
 
-> 2. Example : **find()** | Find where "string" is located as index
+<br><br>
+
+> ## 2. **find()** | Find where "string" is located as index
+
+<br>
 
 ```python
 name = "Steve Rogers"
@@ -25,28 +31,44 @@ print(name.find("g"))  # 8
 
 ```
 
-> 3. Example : **capitalize()** | Capitalize the 1st index
+<br><br>
+
+> ## 3. **capitalize()** | Capitalize the 1st index
+
+<br>
+
 ```python
 name = "bruce banner"
 print(name.capitalize())
 # output: Bruce banner
 ```
 
-> 4. Example : **upper()** | Make every letter uppercase
+<br><br>
+
+> ## 4. **upper()** | Make every letter uppercase
+
+<br>
+
 ```python
 name = "John Wick"
 print(name.upper())
 # output: JOHN WICK
 ```
 
-> 5. Example : **lower()** | Make every letter lowercase
+<br><br>
+
+> ## 5. **lower()** | Make every letter lowercase
 ```python
 name = "JoHN wIcK"
 print(name.lower())
 # output: john wick
 ```
 
-> 6. Example : **isdigit()** | Check condition if it a number(int/float) returns **True**, If not returns **False** | [**Note**] : This function has no effect on **int** and **float**
+<br><br>
+
+> ## 6. **isdigit()** | Check condition if it a number(int/float) returns **True**, If not returns **False** | [**Note**] : This function has no effect on **int** and **float**
+
+<br>
 
 ```python
 name = "Vision"
@@ -55,7 +77,11 @@ print(name.isdigit())     # False
 print(user_id.isdigit())  # True
 ```
 
-> 7. Example : **isalpha()** | Check condition if it a string returns **True**, If not returns **False** | [**Note**] : This function has no effect on **int** and **float**
+<br><br>
+
+> ## 7. **isalpha()** | Check condition if it a string returns **True**, If not returns **False** | [**Note**] : This function has no effect on **int** and **float**
+
+<br>
 
 ```python
 name = "Thor"
@@ -64,7 +90,11 @@ print(name.isalpha())  # True
 print(age.isalpha())   # False
 ```
 
-> 8. Example : **count()** | Count how many the same characters in a **string**
+<br><br>
+
+> ## 8. **count()** | Count how many the same characters in a **string**
+
+<br>
 
 ```python
 name = "Peter Quill"
@@ -72,7 +102,11 @@ print(name.count("e"))  # 2
 print(name.count("l"))  # 2
 ```
 
-> 9. Example : **replace()** | Replace the selected character to the new character | Syntax .replace("selected character", "New character")
+<br><br>
+
+> ## 9. **replace()** | Replace the selected character to the new character | Syntax .replace("selected character", "New character")
+
+<br>
 
 ```python
 name = "Thanos"
@@ -84,7 +118,11 @@ print(username.replace("o", "e"))
 # output: Greet
 ```
 
-> 10. Example : **Print the same string multiple times** | Syntax **print(variable*amount)**
+<br><br>
+
+> ## [**Tips & Tricks**] : Print the same string multiple times | Syntax: **print(variable*amount)**
+
+<br>
 
 ```python
 name = "Natasha"
@@ -92,4 +130,6 @@ print(name*5)
 # output: NatashaNatashaNatashaNatashaNatasha
 ```
 
-> # There are more useful "string methods". If you wish to learn more check out website ![]()
+<br><br>
+
+> ## 👉 There are more useful "string methods". If you wish to learn more check out website ![]()
