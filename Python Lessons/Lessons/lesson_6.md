@@ -3,7 +3,9 @@
 > # **Input data** : except user input <br>
 > ## Syntax: variable_name = input("message")
 
-> 1. Example : input basic info | basic output
+<br><br>
+
+> ## 1. Example : input basic info | basic output
 
 ```python
 name = input("What is your name? : ")
@@ -15,7 +17,10 @@ print("Your age is " + str(age) + " years old")
 print("Your skill is " + skill)
 
 ```
-> 2. Example : input basic info | dynamic output : all in single line with auto formatting data type
+
+<br><br>
+
+> ## 2. Example : input basic info | dynamic output : all in single line with auto formatting data type
 
 ```python
 name = input("What is your name? : ")
@@ -27,7 +32,9 @@ print("Your age is {:} years old".format(age))
 print("Your skill is {:}".format(skill))
 ```
 
-> 3. Example : **type casting** for better readability | **Tip:** use "**\n**" to move to the next line
+<br><br>
+
+> ## 3. Example : **type casting** for better readability | **Tip:** use "**\n**" to move to the next line
 
 ```python
 username = str(input("Enter your username : "))
