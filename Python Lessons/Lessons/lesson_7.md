@@ -9,6 +9,8 @@
 > ## 0.49 or lower will round up to the lowerest integer.
 > ## 0.50 or higher will round up to the highest integer.
 
+<br>
+
 * ## Example: PI = 3.14 will round up to 3 because ".14" is lower than 0.5 and 3 is the nearest integer.
 
 ```python
@@ -17,7 +19,12 @@ print(round(PI))
 #output: 3
 ```
 
+<br><br>
+
+
 > ## 2. **ceil()** = Will round up to the highest integer even if the decimal is lower than 0.5
+
+<br>
 
 * ## Example: PI = 3.14 will round up to 4 because 4 come after 3
 
@@ -27,7 +34,11 @@ print(ceil(PI))
 #output: 4
 ```
 
+<br><br>
+
 > ## 3. **floor()** = Will round up to the lowest integer even if the decimal is grater than 0.5
+
+<br>
 
 * ## Example: PI = 3.14 will round up to 3 because 3 is the lowest integer
 
@@ -37,7 +48,11 @@ print(floor(PI))
 #output: 3
 ```
 
+<br><br>
+
 > ## 4. **abs()** = "absolutely" Will turn negative number into positive number.
+
+<br>
 
 * ## Example: X = -420.69 will turn into 420.69
 
@@ -50,6 +65,8 @@ print(abs(x))
 > ## 5. **pow()** = Raise the power of number. Example: 2^5 = 2 * 2 * 2 * 2 * 2 = 32
 > ## Syntax: pow(base, power)
 
+<br>
+
 * ## Example: PI^2 = ?, PI^5 = ?
 
 ```python
@@ -61,7 +78,11 @@ print(pow(Pi, 5)) # PI * PI 5 times
 #output: 305.2447761824001
 ```
 
+<br>
+
 * ### **Pro tip:** Take 2 decimal of the power of number | Require "import math" function. <Br> We will discuss this later so that's okey if you don't understand.
+
+<br>
 
 ```python
 import math
@@ -73,9 +94,13 @@ print(result)
 #output: 306.02
 ```
 
+<br><br>
+
 > ## 6. **sqrt()** = Require "**import math**" to work | **sqrt** = square root.
 > ## [!]Remember[!] You cannot use square root as negative numbers.
 > ## Syntax: math.sqrt()
+
+<br>
 
 * ## Exmaple: square root of PI | square root of random number
 
@@ -91,8 +116,12 @@ print(math.sqrt(x))   # output: 5.0
 print(math.sqrt(y))   # output: 12.0
 ```
 
+<br><br>
+
 > ## 7. **max()** = Find the highest/largest number of multiple values.
 > ## [**Note**]: This will output only 1 value.
+
+<br>
 
 * ## Example: Let's create x, y, z = 100, 400, 250 and see which is the largest of all.
 
@@ -102,8 +131,12 @@ print(max(x, y, z))
 # output: 400
 ```
 
+<br><br>
+
 > ## 8. **min()** = Find the lowest/smallest number of multiple values.
 > ## [**Note**]: This will output only 1 value.
+
+<br>
 
 * ## Example: Let's create x, y, z = 600, 400, 20
 
@@ -112,6 +145,8 @@ x, y, z = 600, 400, 20
 print(min(x, y, z))
 # output: 20
 ```
+
+<br><br>
 
 > *  ## These are useful **math function** in Python and use a lot in larger project.
 > * ## There are other **math function** like **sin** , **cos** , **tan** , **log** , **log10** , **...**
