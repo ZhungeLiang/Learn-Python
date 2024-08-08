@@ -23,7 +23,7 @@
 
 # Lessons
 
-Click specific **link** to view the provided lessons along with **video** & **document** for demonstration.
+Click specific **link** to view the provided lessons along with **examples** and **Tips & Tricks** for demonstration.
 
 > [Lesson 1](Lessons/lesson_1.md) : [**What is Python? 🐍**](Lessons/lesson_1.md) | History of Python creator and how to get start on using **Python**.
 
