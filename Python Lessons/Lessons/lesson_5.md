@@ -1,4 +1,4 @@
-# Type casting
+# Lesson 5 : Type casting
 
 > ## **Type casting** Use to change existed data types to another data type.
 > ## Casting data types : **str** , **int** , **float** , **bool**

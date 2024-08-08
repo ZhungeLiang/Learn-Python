@@ -1,4 +1,4 @@
-# Input data
+# Lesson 6 : Input data
 
 > # **Input data** : except user input <br>
 > ## Syntax: variable_name = input("message")

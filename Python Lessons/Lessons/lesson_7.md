@@ -1,4 +1,4 @@
-# Math functions
+# Lesson 7 : Math functions
 
 > * ## Useful **math functions** will be vulnerable during complex calculations.
 > * ## There are multiple **math functions**, let's walk through each one.
